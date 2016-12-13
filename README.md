@@ -22,6 +22,10 @@ Useful reading material curated by Wix Mobile Engineering. We encourage every mo
 
 * [How to create your own native bridge - Chapter 2: JSVM and the first adventure](https://medium.com/@kureevalexey/how-to-create-your-own-native-bridge-bfa050e708fc#.rpgzo3tey) (by Alexey Kureev)
 
+## Mobile Engineering at Scale
+
+* [Building a React Native App for 80 Million Users (ReactNext video)](http://youtube.com/watch?v=abSNo2P9mMM) (by Tal Kol, Wix)
+
 ## General JavaScript
 
 * [An Ode to Async-Await](https://hackernoon.com/an-ode-to-async-await-7da2dd3c2056#.pyx0twijy) (by Tal Kol, Wix)
