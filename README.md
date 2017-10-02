@@ -2,6 +2,12 @@
 
 Useful reading material curated by Wix Mobile Engineering. We encourage every mobile engineer in Wix (or anyone working with React Native) to be familiar with this content.
 
+## Software Engineering
+
+* [Clean Coders video course](https://cleancoders.com/)
+* [Clean Code](http://a.co/gsXnuO4) - available at the Wix Academy
+* [Growing Object Oriented Software Guided By Tests](http://a.co/ezD2jvB) - available at the Wix Academy
+
 ## Reactive Dataflow
 
 * [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.gchj7syn3) (by Tal Kol, Wix)
